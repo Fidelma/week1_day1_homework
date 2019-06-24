@@ -1,0 +1,2 @@
+GitHub Useful things
+In GitHub you can create new repositories and github will generate code that you can copy and paste to connect the my git to githib. After that I can then push any changes to GitHub

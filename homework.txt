@@ -1,0 +1,5 @@
+Useful git commands
+git init: initialises git
+git status: shows status of git
+git add --all: add's all changes/directories
+git commit -m " ": commits git but need to add files
